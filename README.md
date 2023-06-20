@@ -305,7 +305,9 @@
    - Menampilkan semua event dan tiket yang tersedia untuk event tersebut pada halaman dashboard, bila tidak ada tiket yang tersedia maka muncul keterangannya
      ![image](https://github.com/farhanhnfx/UASPPW1_22-504834-SV-21715_ArtShow/assets/130881480/ac152905-f656-47d0-87d2-bd4a4139cf6d)
 
-Contoh email dan password yang dapat digunakan untuk login:
+#### Contoh email dan password yang dapat digunakan untuk login:
+
 email: farhan@email.com
+
 password: test123
    
